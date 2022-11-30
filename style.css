@@ -1,5 +1,4 @@
 body{
-    font-family: "poppins", sans-serif;
     min-height: 100vh;
     background-color: cadetblue;
     align-items: center;
@@ -15,14 +14,9 @@ h1{
 }
 
 img{
-    background-color: beige;
     display: block;
     position: relative;
     left: 450px;
-
-    text-align: center;
-    font-size: 40px;
-    color: rgb(29, 188, 26);
     border: 10px solid #000000;
     background: linear-gradient(45deg, black, transparent);
 }
